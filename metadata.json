@@ -1,0 +1,6 @@
+{
+  "name": "Earn Pay",
+  "description": "A complete mobile wallet and referral system with admin controls, QR-based deposits, withdrawals, and ₹50 referral rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
